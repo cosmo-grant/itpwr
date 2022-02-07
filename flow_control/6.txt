@@ -1,0 +1,6 @@
+error (can't compare int and string)
+false (different types)
+false
+true
+false
+true
