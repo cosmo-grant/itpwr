@@ -1,0 +1,2 @@
+An array is an integer-indexed sequence of elements.
+A hash is a collection of key-value pairs, i.e. a key-indexed collection of elements.

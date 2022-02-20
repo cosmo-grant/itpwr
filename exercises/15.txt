@@ -1,0 +1,4 @@
+These hashes are the same!
+
+Guess, based on Python behavior, where insertion order is preserved but not relevant to ==.
+
