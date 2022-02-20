@@ -1,0 +1,3 @@
+6
+
+Wrong! The return value of *each*, when it's given a block, is its receiver.
