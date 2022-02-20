@@ -1,0 +1,3 @@
+1. 3 (index of first matching element)
+2. SyntaxError # Wrong! Should be NoMethodError
+3. 8

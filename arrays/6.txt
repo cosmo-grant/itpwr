@@ -1,0 +1,4 @@
+The []= method on arrays expects an integer argument, representing an array index.
+
+Try:
+name[3] = 'jody'
