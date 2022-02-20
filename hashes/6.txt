@@ -1,0 +1,2 @@
+The key in the first is the symbol :x.
+The key in the second is the string pointed to by the local variable x.
