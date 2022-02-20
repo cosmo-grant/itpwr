@@ -1,0 +1,3 @@
+The block is not called, so nothing is printed. The method returns the value of its last evaluated expression, i.e. the block object.
+
+Correction! Not a block object, but a Proc object.

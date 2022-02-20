@@ -1,0 +1,1 @@
+Catching and gracefully dealing with errors in the course of running your code. It lets us write nicer code sometimes, and stops errors from crashing your program.
