@@ -11,4 +11,3 @@ p hash1, hash2, merge_no_bang
 merge_with_bang = hash1.merge!(hash2)
 p hash1, hash2, merge_with_bang
 puts merge_with_bang.equal?(hash1)
-
